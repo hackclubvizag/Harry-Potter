@@ -4,6 +4,6 @@ body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 div {
-  background:bisque;           /* Declaration 1 */
-  text-align: center;   /* Declaration 2 */
+  background:bisque;        
+  text-align: center;   
 }
